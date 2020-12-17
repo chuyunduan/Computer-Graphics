@@ -14,3 +14,5 @@
 Включаемые каталоги: path/to/Задание по курсу компьютерной графики/Libraries/Include
 
 Каталоги библиотек: path/to/Задание по курсу компьютерной графики/Libraries/Libs
+
+Скопируйте файл .dll в C: \ Windows \ System32 и C: \ Windows \ SysWOW64
